@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IsacMapSample</string>
+    <string name="google_maps_key">TODO:to be replaced</string>
+</resources>
